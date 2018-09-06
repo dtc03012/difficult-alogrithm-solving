@@ -1,4 +1,6 @@
 # difficult-alogrithm-solving
 baekjoon in ssagibang
 
-i love star
+plan
+
+i will solve all second softcon contest in 9/9 -- NOT YET
