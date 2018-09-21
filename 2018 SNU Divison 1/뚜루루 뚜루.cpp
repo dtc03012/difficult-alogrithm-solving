@@ -79,4 +79,4 @@ int main() {
 	rtot+=tot;
 	cout << rtot << endl;
 	return 0;
-}
+} 
